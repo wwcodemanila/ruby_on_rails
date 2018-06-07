@@ -1,3 +1,5 @@
+test
+
 # Women Who Code Manila Ruby on Rails Study Group
 
 ![Ruby](_media/ruby.png)
